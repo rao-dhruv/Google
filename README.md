@@ -1,5 +1,5 @@
 # Google
 Simplifying your Google Search
 
-Run the below command before program:
+Run the command before program:
 pip install google
